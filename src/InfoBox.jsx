@@ -9,6 +9,7 @@ import WbSunnyIcon from '@mui/icons-material/WbSunny';
 
 
 
+
 export default function InfoBox({info}){
 
     const INIT_URL = "https://unsplash.com/photos/trees-and-green-grass-covered-mountain-phyKBS5Z94M";
